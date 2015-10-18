@@ -1,9 +1,22 @@
+logs
+project/project
+project/target
+target
+tmp
 *.class
 *.log
 
 # sbt specific
 .cache
 .history
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
 .lib/
 dist/*
 target/
