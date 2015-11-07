@@ -2,7 +2,7 @@ import com.typesafe.sbt.SbtNativePackager.autoImport._
 
 name := "doc2text"
 
-version := "1.0"
+version := "1.1"
 
 scalaVersion := "2.10.6"
 
